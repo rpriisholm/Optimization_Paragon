@@ -1,0 +1,17 @@
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\bin\Debug\Optimization_Paragon.exe.config
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\MainWindow.g.cs
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\App.g.cs
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\Optimization_Paragon_MarkupCompile.cache
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\Optimization_Paragon_MarkupCompile.lref
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\bin\Debug\Optimization_Paragon.exe
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\bin\Debug\Optimization_Paragon.pdb
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\MainWindow.baml
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\Optimization_Paragon.g.resources
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\Optimization_Paragon.Properties.Resources.resources
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\Optimization_Paragon.csproj.GenerateResource.Cache
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\Optimization_Paragon.exe
+c:\users\rprii\onedrive\documents\visual studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\Optimization_Paragon.pdb
+C:\Users\rprii\OneDrive\Documents\Visual Studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\bin\Debug\Optimization_Paragon.exe.manifest
+C:\Users\rprii\OneDrive\Documents\Visual Studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\bin\Debug\Optimization_Paragon.application
+C:\Users\rprii\OneDrive\Documents\Visual Studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\Optimization_Paragon.exe.manifest
+C:\Users\rprii\OneDrive\Documents\Visual Studio 2015\Projects\Optimization_Paragon\Optimization_Paragon\obj\Debug\Optimization_Paragon.application

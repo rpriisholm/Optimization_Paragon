@@ -1,0 +1,48 @@
+﻿<Window x:Class="Optimization_Paragon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Optimization_Paragon"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" SizeToContent="Height">
+    <DockPanel>
+        <Slider x:Name="SlPoints" DataContext="{Binding}" ValueChanged="SlPoints_ValueChanged" Minimum="0" Maximum="60" DockPanel.Dock="Top"/>
+        <WrapPanel DockPanel.Dock="Top">
+            <Label Content="Points: " />
+            <TextBlock x:Name="TbPoints" Text="{Binding ElementName=SlPoints,Path=Value}" />
+        </WrapPanel>
+        <Separator Background="Aqua" DockPanel.Dock="Top"/>
+        <WrapPanel DockPanel.Dock="Top">
+            <Label Content="Switch To Crit (-6 Points when optimize): " />
+            <TextBlock x:Name="TbCritRules"/>
+        </WrapPanel>
+        <Separator Background="Aqua" DockPanel.Dock="Top"/>
+        <WrapPanel DockPanel.Dock="Top">
+            <Label Content="Attack Speed: " />
+            <TextBlock x:Name="TbAttackSpeed"/>
+        </WrapPanel>
+        <Separator Background="Aqua" DockPanel.Dock="Top"/>
+        <WrapPanel DockPanel.Dock="Top">
+            <Label Content="Crit Chance: " />
+            <TextBlock x:Name="TbCritChance"/>
+        </WrapPanel>
+        <Separator Background="Aqua" DockPanel.Dock="Top"/>
+        <WrapPanel DockPanel.Dock="Top">
+            <Label Content="Critical Damage %: " />
+            <ComboBox x:Name="CbCritDmg" Width="60" SelectionChanged="CbCritDmg_SelectionChanged" />
+        </WrapPanel>
+        <Separator Background="Aqua" DockPanel.Dock="Top"/>
+        <WrapPanel DockPanel.Dock="Top">
+            <Label Content="Power: " />
+            <TextBlock x:Name="TbPower"/>
+        </WrapPanel>
+        <Separator Background="Aqua" DockPanel.Dock="Top"/>
+        <WrapPanel DockPanel.Dock="Top">
+            <Label Content="Increased Damage: " />
+            <TextBlock x:Name="TbIncrDmg"/>
+        </WrapPanel>
+        <Separator Background="Aqua" DockPanel.Dock="Top"/>
+        <Button x:Name="BtnOptimizeDmg" Content="Optimize Damage" Height="20" Click="BtnOptimizeDmg_Click" DockPanel.Dock="Top"/>
+    </DockPanel>
+</Window>
